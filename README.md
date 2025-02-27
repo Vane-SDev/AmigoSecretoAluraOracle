@@ -63,7 +63,7 @@ Este proyecto está bajo la licencia **MIT**. Siéntete libre de usarlo, modific
 
 ## 🙌 Créditos
 
-- **Desarrollado por**: [Vane-SDev].
+- **Desarrollado por**: Vane-SDev
 - **Inspiración**: Challenge One Lógica de Programación para practicar JavaScript.
 
 ---
