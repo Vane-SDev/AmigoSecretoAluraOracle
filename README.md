@@ -1,4 +1,4 @@
-# AmigoSecretoAluraOracle
+# AmigoSecreto ONE
 # 🎁 Amigo Secreto
 
 ¡Bienvenido/a a mi aplicación de **Amigo Secreto**! Esta es la solución de el challenge ONE lógica de programación que te permite organizar un sorteo de amigos secretos. Se basa en ingresar los nombres de tus amigos, añádelos a la lista y deja que la aplicación elija al azar quién le toca a quién. 
