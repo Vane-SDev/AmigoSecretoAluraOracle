@@ -38,7 +38,7 @@
 
 El proyecto incluye validaciones para asegurar que:
 - No se ingresen nombres vacíos.
-- - Los nombres tengan al menos 2 caracteres.
+- Los nombres tengan al menos 2 caracteres.
 - No se permitan números ni caracteres especiales.
 - No se agreguen nombres duplicados.
 
