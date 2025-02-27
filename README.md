@@ -32,15 +32,13 @@
 ## 📂 Estructura del proyecto
 
 ![image](https://github.com/user-attachments/assets/5286a2a4-5d8f-416f-809e-8d668fd2d720)
-
-
 ---
 
 ## ✅ Validaciones
 
 El proyecto incluye validaciones para asegurar que:
 - No se ingresen nombres vacíos.
-- Los nombres tengan al menos 2 caracteres.
+- - Los nombres tengan al menos 2 caracteres.
 - No se permitan números ni caracteres especiales.
 - No se agreguen nombres duplicados.
 
